@@ -18,23 +18,23 @@ A simple, elegant task manager built with Flutter for managing personal tasks wi
 
 ### Icon
 
-![Splash Screen](personal_task_manager/lib/screenshots/ICON.png)
+![ICON](lib/screenshots/ICON.png)
 
 ### Home Screen (Empty)
 
-![Home Screen Empty](personal_task_manager/lib/Home_Screen.png)
+![Home Screen Empty](lib/Home_Screen.png)
 
 ### Home Screen (With Tasks)
 
-![Home Screen](personal_task_manager/lib/screenshots/Home Screen after task added.png)
+![Home Screen With Tasks](lib/screenshots/Home Screen after task added.png)
 
 ### Add Task Screen
 
-![Add Task](personal_task_manager/lib/screenshots/Add New Task.png)
+![Add Task Screen](personal_task_manager/lib/screenshots/Add New Task.png)
 
 ### Task Details Screen
 
-![Task Details](personal_task_manager/lib/screenshots/Add New Task_2.png)
+![Task Details Screen](personal_task_manager/lib/screenshots/Add New Task_2.png)
 
 ## 🛠️ Technologies Used
 
