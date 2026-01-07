@@ -22,7 +22,7 @@ A simple, elegant task manager built with Flutter for managing personal tasks wi
 
 ### Home Screen (Empty)
 
-![Home_Screen](lib/Home_Screen.png)
+![Home Screen](lib/Home_Screen.png)
 
 ### Home Screen (With Tasks)
 
